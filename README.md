@@ -14,4 +14,4 @@
 
 ## Repository Information
 
-Respository's URL: [https://github.com/maddici-vm/maddici-uc.github.io/edit/main)
+Respository's URL: [https://github.com/maddici-vm/maddici-uc.github.io/)
