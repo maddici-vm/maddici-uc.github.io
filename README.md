@@ -15,3 +15,6 @@
 ## Repository Information
 
 Respository's URL: [https://github.com/maddici-vm/maddici-uc.github.io/)
+
+
+![Figure-1](image/ss1.jpg)
