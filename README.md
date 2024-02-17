@@ -8,9 +8,9 @@
 
 **Email**: maddici@ucmail.uc.edu
 
-**Short-bio**:  
+**Short-bio**:  Aspiring IT graduate student passionate about leveraging technology to drive innovation 
 
-![Phu's headshot](image/headshot.jpg)
+![My headshot](image/headshot.jpg)
 
 ## Repository Information
 
